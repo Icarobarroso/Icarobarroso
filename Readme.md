@@ -1,8 +1,8 @@
 
 ### Olá! eu sou o Icaro 🖐🏽
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Icarobarroso&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroBarroso&hide_progress=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Icarobarroso&show_icons=true&theme=radical) 
+
 
 
 
